@@ -393,7 +393,8 @@ $bot[jam] = 13;
    $no=array(6,0,1,2,3,4,5,);
    $result = '@@[0:[0:1:O===============O O================O]]
  
-Bot By : MuaVia HuSsaiNi';
+OwNeR : MuaVia HuSsaiNi
+XiTe: mr-marry. ml';
 return $result;
 }
 
