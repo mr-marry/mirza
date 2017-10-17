@@ -1,38 +1,40 @@
-﻿<?php
+<?php
 $com =
 array(
 'cPhoto' => array(
-  '<nama> :O KYa PhoTo UpLoaD Ke He :D',
+  '<nama> :O XO ┈•❀💗✾ωℴω_Cʋʇℯ_ℴωℯsℴʍℯ✾💗❀•┈🔙⚘ℓσνєℓу⚘N͞i͞c͞e͞🍥s͞w͞e͞e͞t͞ 💞 :D',
 ),
 'cBiasa' => array(
-     'ThiX CoMMenT iX FoH YoU <nama> ;) ',
+     '<3 🌺ℒℴѵℯℒy ⚘🌺 <nama> ;) ',
       ),
 'cKondisi' => array(
        array(
            array(
-           'HaM Ko To aP Ki He PoXT Ka iNTzaR Tha :p <nama> ',
+           ' <3 [=S ʜ ʋ p"ʌ ɭ ɓ=] 😋👌 :p <nama> ',
             ),
        ),
    ),
 
 'cNo1' => array(
-        'CoMmenT RaCe :D ????',
+        ':D ❤👈😍🅢🅤🅟🅔🅡🅑💯😍👉❤
+ 🔙🔙🔙',
         ),
 
 'cNoZ' => array(
-       '<nama>...!! <n> <me>...!! <n> Wow :D ',
+       '<nama>...!! <n> <me>...!! <n>  XO ❤👈😍🅢🅤🅟🅔🅡🅑💯😍👉❤
+ 🔙🔙🔙 ',
        ),
 
 'cLatah1'=> array(
-       'Good Job <nama> <n> KeeP iT Up :D ',
+       ':* ★🌹二【«#αʍαʐɨռɢ »】二🌹★ <nama> <n> :D ',
        ),
 
 'cLatah'=> array(
-       'JuXT NoW MiLa Ke NaHi :/ ???????',
+       '<3 🌿✿🍹#ƒąйtąşтiç🍹#ʆѳѵɛΙy🍹✿🌿',
       ),
 
 'cKata' => array(
-      'Hmn :p ',
+      '<3 💲➤❀๑▬๑۩#AwEsOℳe۩๑▬๑🔙🅰️ :p ',
      ),
    'cAcak' => $text,
    );
@@ -393,8 +395,8 @@ $bot[jam] = 13;
    $no=array(6,0,1,2,3,4,5,);
    $result = '@@[0:[0:1:O===============O O================O]]
  
-OwNeR : MuaVia HuSsaiNi
-XiTe: mr-marry. ml';
+💯😍👉❤ σωиєя: мυανια нυѕѕαιиι
+💯😍👉❤ вσт ѕιтє: ᴍʀ-ᴍᴀʀʀʏ,ᴍʟ';
 return $result;
 }
 
